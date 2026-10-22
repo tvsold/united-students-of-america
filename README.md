@@ -60,3 +60,6 @@ Then open http://localhost:8000 in your browser.
 Research sources are linked on the pages. Events, social accounts, surveys, and petitions are proposed activities. The letter builder does not submit messages or collect personal information. The Share button automatically uses your new website address when hosted.
 
 This export contains the ready-to-edit HTML, CSS, JavaScript, and assets from the completed website. It excludes hosting account configuration, Git history, and preview screenshots.
+
+
+Yup
